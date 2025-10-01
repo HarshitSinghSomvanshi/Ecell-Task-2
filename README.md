@@ -8,7 +8,7 @@ This project includes the mandatory sections: *About Me, Skills, Education, Cont
 
 ## 🚀 Features
 
-- **Dark Theme Design** for a modern look  
+- **Light Green Theme Design** for a modern look  
 - Sections:
   - About Me
   - Skills
